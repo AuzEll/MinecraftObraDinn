@@ -13,6 +13,7 @@ Functionality:
 - Finishing chapters 8 and 9 should teleport the player to a 'Disappearance scene' where they will find the books for recording everyone's fate who disappeared in their respective chapters.
 - Exiting any memory for the first time should spawn a sign above the command block on the ship, displaying the correct scene title. These signs should not be there before entering the memory.
 - Exiting certain memories for the first time should open doors or trapdoors on the ship, granting the player access to new areas (see Progression section for specifics).
+- Murder part 2 should have an animal in the scene that looks like a monkey. If it shows up as a Spider instead let me know cause that may mean the player needs to have Optifine installed.
 
 - Writing 3 correct fates into 3 different books should trigger the 3 step validation system (remember the game doesn't read what's written in a book until you hit 'Done'):
 (Player gets inflicted with blindness -> Text displays on screen -> Text displays in chat log revealing the correctly identified fates -> The 3 writable books in inventory get removed and replaced with written ones with the fate the player entered on the first page -> Text displays in chat log revealing the number of fates solved -> player blindness goes away)
