@@ -1,0 +1,38 @@
+Things to test:
+
+Alpha Test Build (chs 10, 7, 9 & 3)
+
+Functionality:
+- Every command block teleports the player to pitch black room, triggers the correct scene audio + scene dialogue subtitles before teleporting player to scene, facing the deceased.
+- Every memory should contain a book, labelled correctly, with the correct content (Placeholders, transcript, location of corpse, others present, and list of fates).
+- Attempting to exit a memory should send the player back to the ship, and cut the scene audio if it's still playing. Unless the memory should be leading to the unlocking of another, in which case the memory should notify the player that there is another corpse in the memory and spawn a command block next to the other corpse in the memory.
+- Triggering a command block within a memory should teleport the player back to the ship, notifying them that a new memory is unlocked on the ship. If triggering this command block with a memory a second time, the command block should instantly activate the next (or rather previous) memory function.
+- Re-entering a memory shouls allow the player to skip the cutscene by pressing SPACE while in the pitch black room, instantly teleporting them to the scene (the game achieves this functionality by checking if the memory book has been removed from the chest in its scene.
+- Pressing SPACE when first entering a memory should not skip the cutscene.
+- After revealing all parts of a chapter, the game should display text to say so and also display the number of confirmed deaths and disappearances during the entire chapter.
+- Finishing chapters 8 and 9 should teleport the player to a 'Disappearance scene' where they will find the books for recording everyone's fate who disappeared in their respective chapters.
+- Exiting any memory for the first time should spawn a sign above the command block on the ship, displaying the correct scene title. These signs should not be there before entering the memory.
+- Exiting certain memories for the first time should open doors or trapdoors on the ship, granting the player access to new areas (see Progression section for specifics).
+
+- Writing 3 correct fates into 3 different books should trigger the 3 step validation system (remember the game doesn't read what's written in a book until you hit 'Done'):
+(Player gets inflicted with blindness -> Text displays on screen -> Text displays in chat log revealing the correctly identified fates -> The 3 writable books in inventory get removed and replaced with written ones with the fate the player entered on the first page -> Text displays in chat log revealing the number of fates solved -> player blindness goes away)
+- You should be able to enter the correct fate into a back, change it to a different correct fate and this shouldn't screw up the 3 set validation system.
+- You should be able to, when the validation system is at 0, enter the correct fate into a book, change it something else, then enter the correct fates into 3 other books, and when the 3 set validation system triggers, the first book you filled in correctly and then changed back should not have been replaced.
+- This build currently has 33 fates to be solved so the 3 set validation system should be able to solve all of them (However some identifying information you won't have with the available chapters so I don't expect you to solve all of them. Just as many as you can.)
+- (If you're confident you have a fate correct but it's not validating, first makes sure the spelling and formatting is correct on the first page, then check with me)
+
+
+Progression:
+- The End part 1 Command Block should be at the helm and the doors to the captain's quarters should be locked.
+- Exiting The End part 1 should open the left door to the captain's quarters, where The End part 2 and The End part 3 are located. The door to the right-back cabin should still be locked.
+- Having visited parts 2 & 3 (regardless of order) should open the door to the right-back cabin.
+- The Doom part 8 leads to part 7 -> leads to part 6.
+- Exiting The Doom part 6 should open the ship's front staircase to the Gun Deck.
+- The left and right door to the Bow of the ship should be locked and exiting the Doom part 5 should open the left door.
+- The front staircase to the Orlop Deck should be locked
+- The Doom part 5 leads to part 4 -> leads to part 3.
+- The Doom part 2 leads to part 1.
+- The ship's back staircase to the Gun Deck, the back staircase to the Orlop Deck and the door to the first mate's cabin should all be locked.
+- Exiting The Escape part 6 should open the back staircase to the Gun Deck.
+- Exiting The Escape part 1 (or the Disappearance scene) should open the back staircase to the Orlop Deck and the door to the first mate's cabin.
+- Muder part 3 leads to part 2 -> leads to part 1.
