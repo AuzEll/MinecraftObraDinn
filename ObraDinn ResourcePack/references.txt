@@ -1,0 +1,13 @@
+This resource packs borrows assets from the below resource packs:
+
+Grimdark Pirate Pack (1.20.1)
+- https://www.curseforge.com/minecraft/texture-packs/grimdark-pirate
+
+Grimdark Tools: (1.20+)
+- https://www.curseforge.com/minecraft/texture-packs/grimdark-tools
+
+Real Animals: (1.19.4+)
+- https://www.curseforge.com/minecraft/texture-packs/real-animals
+
+Faithful 64x: (1.20.1)
+- https://faithfulpack.net/faithful64x/latest

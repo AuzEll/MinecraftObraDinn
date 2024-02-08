@@ -1,0 +1,27 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stick",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": {"text": "Editor Wand", "italic": false, "color": "yellow"}
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{ctc: {id: 'editor_wand', from: 'boomber:armor_stand'}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Enchantments: [{Id: 1, lvl: 0s}], HideFlags: 1}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

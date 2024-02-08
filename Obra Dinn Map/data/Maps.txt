@@ -1,0 +1,40 @@
+map_19 = Justice At Sea
+map_30 = Under Way
+map_31 = Formosan Royalty
+
+map_32 = Ch X pt 1
+map_53 = Ch X pt 2
+map_54 = Ch X pt 3
+map_55 = Ch X pt 4
+
+map_33 = Ch III pt 3
+map_35 = Ch III pt 2
+map_36 = Ch III pt 1
+
+map_37 = Ch VII pt 8
+map_38 = Ch VII pt 7
+map_39 = Ch VII pt 6
+map_40 = Ch VII pt 5
+map_41 = Ch VII pt 4 (1Star)
+map_42 = Ch VII pt 4 (3Star)
+map_43 = Ch VII pt 3
+map_44 = Ch VII pt 2
+map_45 = Ch VII pt 1
+map_46 = Ch VII Dis O
+map_47 = Ch VII Dis N
+map_48 = Ch VII Dis A
+map_49 = Ch VII Dis C
+map_50 = Ch VII Dis D
+map_51 = Ch VII Dis F
+map_52 = Ch VII Dis W
+
+map_56 = Ch IX pt 6
+map_57 = Ch IX pt 5
+map_58 = Ch IX pt 4
+map_59 = Ch IX pt 3
+map_60 = Ch IX pt 2
+map_61 = Ch IX pt 1
+map_62 = Ch IX Dis E
+map_63 = Ch IX Dis J
+map_64 = Ch IX Dis D
+map_65 = Ch IX Dis H

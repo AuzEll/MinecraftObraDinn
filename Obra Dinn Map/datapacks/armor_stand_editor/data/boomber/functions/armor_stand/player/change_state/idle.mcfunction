@@ -1,0 +1,1 @@
+scoreboard players operation @s bb.ae.state = #player.idle bb.ae.enum

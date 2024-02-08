@@ -1,0 +1,2 @@
+tag @s[type=armor_stand, tag=!global.ignore, tag=!global.ignore.pos, tag=!global.ignore.kill, tag=!boomber.armor_stand.posing] add boomber.armor_stand.selector
+execute if entity @s[tag=boomber.armor_stand.selector] run scoreboard players operation raycast bb.ae.var = #bool.true bb.ae.enum
