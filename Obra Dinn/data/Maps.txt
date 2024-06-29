@@ -47,3 +47,7 @@ map_69 = Ch VI pt 6
 map_70 = Ch VI pt 5
 map_71 = Ch VI pt 4 (2Star)
 map_72 = Ch VI pt 4 (3Star)
+map_73 = Ch VI pt 3
+map_74 = Ch VI pt 2
+map_75 = Ch VI pt 1
+map_76 = Ch VI pt 8

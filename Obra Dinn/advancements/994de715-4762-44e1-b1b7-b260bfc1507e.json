@@ -13,6 +13,7 @@
       "minecraft:mangrove_swamp": "2023-12-19 11:27:23 +1100",
       "minecraft:river": "2023-12-08 13:02:45 +1100",
       "minecraft:lukewarm_ocean": "2023-12-20 19:47:04 +1100",
+      "minecraft:swamp": "2024-06-09 14:56:02 +1000",
       "minecraft:forest": "2023-12-08 16:58:57 +1100",
       "minecraft:ocean": "2023-12-08 13:03:30 +1100",
       "minecraft:windswept_savanna": "2023-12-19 11:27:57 +1100",
@@ -1071,7 +1072,9 @@
       "minecraft:creeper": "2024-03-03 12:54:38 +1100",
       "minecraft:cave_spider": "2023-12-19 11:26:21 +1100",
       "minecraft:piglin": "2023-12-16 13:30:27 +1100",
-      "minecraft:drowned": "2024-03-06 16:33:26 +1100"
+      "minecraft:zombie": "2024-06-09 14:55:19 +1000",
+      "minecraft:drowned": "2024-03-06 16:33:26 +1100",
+      "minecraft:zombie_villager": "2024-06-09 14:57:05 +1000"
     },
     "done": false
   },
